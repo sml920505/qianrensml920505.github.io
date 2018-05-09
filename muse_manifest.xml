@@ -1,0 +1,37 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.baidu.com" resolutions="1x" timestamp="1503942030262">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="4211998692" ref="index"/>
+    <file name="index.css" crc="376311300" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="163421577" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="36584860" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="4065090679" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="notes-macbook-study-conference_看图王.jpg" crc="382586050" ref="index"/>
+    <file name="下拉箭头灰.png" crc="4080118400" seo="true" ref="index"/>
+    <file name="u170-11.png" crc="113125238" ref="index"/>
+    <file name="成品logo白色-05.png" crc="4255503756" seo="true" ref="index"/>
+    <file name="成品logo第一版-05.png" crc="334441150" seo="true" ref="index"/>
+    <file name="可扩展性.png" crc="4146446071" seo="true" ref="index"/>
+    <file name="u685-11.png" crc="4285860783" ref="index"/>
+    <file name="dragdis - be more creative.jpg" crc="510309883" seo="true" ref="index"/>
+    <file name="u1048-13.png" crc="310277562" ref="index"/>
+    <file name="u884-11.png" crc="4040886992" ref="index"/>
+    <file name="u1041-13.png" crc="310277562" ref="index"/>
+    <file name="devices.png" crc="130857700" ref="index"/>
+    <file name="5142dfea6323f831106f3feee54eacbe.jpg" crc="146803556" ref="index"/>
+    <file name="u1417-11.png" crc="4040886992" ref="index"/>
+    <file name="u1120-9.png" crc="57351058" ref="index"/>
+    <file name="banner.png" crc="4153547951" seo="true" ref="index"/>
+    <file name="pasted image 977x236.jpg" crc="157475701" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3758611213" seo="true" mt="1503942029418" redirect="true"/>
+</manifest>
